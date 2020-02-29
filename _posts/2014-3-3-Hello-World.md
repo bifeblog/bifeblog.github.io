@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Este é o primeiro post!!"
+title: "Este é o primeiro post de muitos !!"
 published: true
 ---
 
